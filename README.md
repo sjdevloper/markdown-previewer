@@ -34,5 +34,4 @@ Let's start by installing our project dependencies. Inside the project directory
 <ul>
   <li>npm install react-bootstrap bootstrap </li>
   <li>npm install marked</li>
-  <li>npm install Badge</li>
  </ul>
