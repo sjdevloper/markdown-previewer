@@ -12,7 +12,15 @@ This is a simple react app which will contain a textarea for Markdown input and 
 </ol>
 <h4>Check out learn more: https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer</h4>
 
-### `npm start`
+### `Setup`
+
+In your project directory run the following command in the terminal:
+<ul>
+  <li>npx create-react-app markdownpreviewer</li>
+  <li>cd markdownpreviewer</li>
+  <li>npm start</li>
+ </ul>
+ 
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
