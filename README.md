@@ -4,10 +4,11 @@ This is a simple react app which will contain a textarea for Markdown input and 
 
 ## Prerequisites
 
-1.Knowledge of HTML, CSS, Javascript and Bootstrap.
-2.Basic knowledge of React.
-3.Node and NPM installed on your local dev machine.
-4. Any code editor
+<ol>
+  <li>Knowledge of HTML, CSS, Javascript and Bootstrap.</li>
+  <li>Basic knowledge of React.</li>
+  <li>Node and NPM installed on your local dev machine.</li>
+  <li>Any code editor</li>
 Check out learn more: https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer
 
 ### `npm start`
