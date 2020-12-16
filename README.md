@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+#Markdown Previewer React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple react app which will contain a textarea for Markdown input and a preview tab where the converted text will appear.
 
-## Available Scripts
+## Prerequisites
 
-In the project directory, you can run:
+1.Knowledge of HTML, CSS, Javascript and Bootstrap.
+2.Basic knowledge of React.
+3.Node and NPM installed on your local dev machine.
+4. Any code editor
+Check out learn more: https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer
 
 ### `npm start`
 
